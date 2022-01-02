@@ -1,4 +1,4 @@
-# Every CS:S surf maps on KSF - Oui.
+# Every CS:S surf maps on KSF
 A place to find all of the surf maps on KSF CS:S servers.
 
 Download here: https://drive.google.com/drive/folders/120VTvxXqBcqUh4BwkDXfvnupxGD05QOf

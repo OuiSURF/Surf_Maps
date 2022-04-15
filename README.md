@@ -11,7 +11,7 @@ Maps from L to Z: https://drive.google.com/drive/u/4/folders/1yPFPL_0Xw9PuEuwsiQ
 
 
 ## Last update
-15 April 2022 - Added: surf_apollo - 735 Maps
+15th April 2022 - Added: surf_apollo - 735 Maps
 
 Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in the sub folder.
 

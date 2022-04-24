@@ -11,7 +11,7 @@ Maps from L to Z: https://drive.google.com/drive/u/4/folders/1yPFPL_0Xw9PuEuwsiQ
 
 
 ## Last update
-18th April 2022 - Added: surf_cosmo - 736 Maps
+24th April 2022 - Added: surf_infrared - 737 Maps
 
 Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in the sub folder.
 

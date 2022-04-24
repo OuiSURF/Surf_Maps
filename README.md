@@ -4,7 +4,7 @@ A place to find all of the surf maps on KSF CS:S servers.
 
 
 Maps from A to K: https://drive.google.com/drive/u/3/folders/1czkDEsfY8hniihHX1kKdcm9MxrlPdC2f
-(Extra ressources can be found here)
+(Extra resources can be found here)
 
 
 Maps from L to Z: https://drive.google.com/drive/u/4/folders/1yPFPL_0Xw9PuEuwsiQ5AgRZ41i2Q3i7l

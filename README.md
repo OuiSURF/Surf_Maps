@@ -7,13 +7,13 @@ Maps from A to K: https://drive.google.com/drive/u/3/folders/1czkDEsfY8hniihHX1k
 (Extra resources can be found here)
 
 
-Maps from L to Z: https://drive.google.com/drive/u/4/folders/1yPFPL_0Xw9PuEuwsiQ5AgRZ41i2Q3i7l
+Maps from L to Z: https://drive.google.com/drive/u/1/folders/1f3Oe65BngrSxTPKHAt6MEwK0FTsDbUsO
 
 
 Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in the sub folder.
 
 ## Last update
-1st June 2022 - Added: surf_whynot2 - 742 Maps
+30th August 2022 - Added: surf_rubiks_cube - 755 Maps
 
 ## Contact me 
 On discord - Oui#5912 - for any issue with / missing a map.

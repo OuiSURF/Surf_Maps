@@ -13,7 +13,7 @@ Maps from L to Z: https://drive.google.com/drive/u/1/folders/1f3Oe65BngrSxTPKHAt
 Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in the sub folder.
 
 ## Last update
-28h November 2022 - Last map added: surf_not_so_sinister_ksf - 771 Maps
+09h December 2022 - Last map added: surf_prismatic_ksf (+ surf_revolution_fix) - 772 Maps
 
 ## Contact me 
 On discord - Oui#5912 - for any issue with / missing a map.

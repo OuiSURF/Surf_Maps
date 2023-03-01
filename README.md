@@ -16,7 +16,7 @@ Spreadsheet of all the maps : https://docs.google.com/spreadsheets/d/1oXU6UXGPdg
 Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in the sub folder.
 
 ## Last update
-22nd February 2023 - Last map added: surf_outra - 782 Maps
+1st March 2023 - Last map added: surf_seaside - 783 Maps
 
 ## Contact me 
 On discord - Oui#5912 - for any issue with / missing a map.

@@ -19,6 +19,6 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 18th June 2023 - Last map added: surf_perihelion, surf_sketchy & surf_hardline - 800 Maps
 
 ## Contact me 
-On discord - Oui#5912 - for any issue with / missing a map.
+On discord - .0ui - for any issue with / missing a map.
 
 Oui.

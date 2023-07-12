@@ -18,6 +18,8 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 ## Last update
 2nd July 2023 - Last map added: surf_hellenic & surf_adrift_fix - 802 Maps
 
+(Was missing the following maps that I thought I uploaded... surf_endeavor, surf_fuckyall, surf_hardline, surf_lament_ksf, surf_nocturn, surf_nuclear, surf_rubiks_cube & surf_void)
+
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.
 

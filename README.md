@@ -16,9 +16,7 @@ Spreadsheet of all the maps : https://docs.google.com/spreadsheets/d/1oXU6UXGPdg
 Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in the sub folder.
 
 ## Last update
-27th July 2023 - Last map added: surf_beyond2 - 804 Maps
-
-Updated surf_jive to T4 (prev T3) and surf_damnation to T5 (prev T4)
+26th August 2023 - Last map added: surf_indecisive - 805 Maps
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

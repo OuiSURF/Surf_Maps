@@ -16,7 +16,7 @@ Spreadsheet of all the maps : https://docs.google.com/spreadsheets/d/1oXU6UXGPdg
 Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in the sub folder.
 
 ## Last update
-24th September 2023 - Last map added: surf_kaaba - 808 Maps
+7th October 2023 - Last map added: surf_castlewalls - 809 Maps
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

@@ -18,6 +18,7 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 ## Last update
 
 9th October 2023 - Last map added: surf_santorini2 - 810 Maps
+Tier adjustment: surf_lowestbidder T4 -> T5
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

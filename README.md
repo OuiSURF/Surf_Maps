@@ -2,6 +2,11 @@
 
 A place to find all of the surf maps on KSF CS:S servers.
 
+_____________________________________________________
+
+HALLOWEEN 20023 CONTEST MAPS CAN BE DOWNLOADED HERE : https://drive.google.com/drive/folders/1n8Kl_gqSkfy6H5nR6oMSaEIFF8gZQbj-?usp=sharing
+
+_____________________________________________________
 
 Maps from A to K: https://drive.google.com/drive/u/2/folders/17QJ-Wzk9eMHKZqX227HkPCg9_Vmrf9h-
 (Extra resources can be found here)
@@ -17,7 +22,7 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 
 ## Last update
 
-19th October 2023 - Last map added: surf_smol - 811 Maps
+1st Nomvember 2023 - Last map added: surf_demise, surf_everdark, surf_executioner, surf_ofrenda, surf_sinner, surf_spooky, surf_threnody - 818 Maps
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

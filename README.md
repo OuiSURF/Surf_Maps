@@ -4,10 +4,6 @@ A place to find all of the surf maps on KSF CS:S servers.
 
 _____________________________________________________
 
-HALLOWEEN 20023 CONTEST MAPS CAN BE DOWNLOADED HERE : https://drive.google.com/drive/folders/1n8Kl_gqSkfy6H5nR6oMSaEIFF8gZQbj-?usp=sharing
-
-_____________________________________________________
-
 Maps from A to K: https://drive.google.com/drive/u/2/folders/17QJ-Wzk9eMHKZqX227HkPCg9_Vmrf9h-
 (Extra resources can be found here)
 

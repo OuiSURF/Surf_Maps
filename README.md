@@ -18,9 +18,7 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 
 ## Last update
 
-1st November 2023 - Last map added: surf_demise, surf_everdark, surf_executioner, surf_ofrenda, surf_spooky, surf_threnody - 818 Maps
-
-2nd November 2023 - Updated surf_sinner to surf_sinner_ksf
+5th December 2023 - Last map added: surf_medley_fix - 819 Maps
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

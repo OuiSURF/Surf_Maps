@@ -18,7 +18,7 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 
 ## Last update
 
-1st January 2024 - Last map added: surf_artois & surf_christmas3 - 821 Maps
+8tht January 2024 - Last map added: surf_diet_mountain_dew - 822 Maps
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

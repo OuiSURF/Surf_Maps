@@ -18,7 +18,7 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 
 ## Last update
 
-8tht January 2024 - Last map added: surf_diet_mountain_dew - 822 Maps
+31st January 2024 - Last map added: surf_rise - 823 Maps (and fixed typo surf_sinner_ksf T4 to T3)
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

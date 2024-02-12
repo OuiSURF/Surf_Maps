@@ -18,8 +18,7 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 
 ## Last update
 
-5th February 2024 - Last map added: surf_topology - 824 Maps 
-(changed surf_topology T8 to T7)
+12th February 2024 - Last map added: surf_boogie_woogie - 825 Maps 
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

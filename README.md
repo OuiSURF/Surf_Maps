@@ -18,7 +18,7 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 
 ## Last update
 
-12th February 2024 - Last map added: surf_boogie_woogie - 825 Maps 
+20th February 2024 - Last map added: surf_ruse - 826 Maps 
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

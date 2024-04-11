@@ -21,25 +21,25 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 11th April 2024 - Last map added: surf_ruse - 831 Maps 
 
 And the following tier changes
-UP to t2 - surf_and_destroy_fix
-UP to t2 - surf_calzone
-UP to t2 - surf_forbidden_ways_ksf
-UP to t2 - surf_perennial
-UP to t2 - surf_zor
-UP to t3 - surf_aeron
-UP to t3 - surf_lodypreview
-UP to t4 - surf_oompa2
-UP to t4 - surf_masonry
-UP to t4 - surf_santorini2
-UP to t5 - surf_dynamics_fixed
-UP to t6 - surf_edge
-UP to t6 - surf_stitched
-UP to t7 - surf_ruse
+- UP to t2 - surf_and_destroy_fix
+- UP to t2 - surf_calzone
+- UP to t2 - surf_forbidden_ways_ksf
+- UP to t2 - surf_perennial
+- UP to t2 - surf_zor
+- UP to t3 - surf_aeron
+- UP to t3 - surf_lodypreview
+- UP to t4 - surf_oompa2
+- UP to t4 - surf_masonry
+- UP to t4 - surf_santorini2
+- UP to t5 - surf_dynamics_fixed
+- UP to t6 - surf_edge
+- UP to t6 - surf_stitched
+- UP to t7 - surf_ruse`
 
-DOWN to t3 - surf_cyanide
-DOWN to t3 - surf_jizznipples
-DOWN to t3 - surf_pogchamp
-DOWN to t4 - surf_kalium2
+- DOWN to t3 - surf_cyanide
+- DOWN to t3 - surf_jizznipples
+- DOWN to t3 - surf_pogchamp
+- DOWN to t4 - surf_kalium2
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

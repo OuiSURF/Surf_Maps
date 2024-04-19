@@ -18,7 +18,7 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 
 ## Last update
 
-11th April 2024 - Last map added: surf_ruse - 831 Maps 
+19th April 2024 - Last maps added: surf_santorini_ksf & surf_santorini3 - 833 Maps 
 
 And the following tier changes
 - UP to t2 - surf_and_destroy_fix

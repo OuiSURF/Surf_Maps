@@ -18,7 +18,7 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 
 ## Last update
 
-09th May 2024 - Last maps added: surf_honour & surf_earthmover - 835 Maps 
+20th May 2024 - Last maps added: surf_radiant - 836 Maps 
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

@@ -18,7 +18,9 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 
 ## Last update
 
-20th May 2024 - Last maps added: surf_radiant - 836 Maps 
+20th May 2024 - Last maps added: surf_race & surf_ben10 - 838 Maps 
+
+Map tier balance: surf_tempest T4 (previously T3)
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

@@ -18,9 +18,18 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 
 ## Last update
 
-30th May 2024 - Last maps added: surf_race & surf_ben10 - 838 Maps 
+24th June 2024 - Last maps added: surf_antagonist & surf_monkeys - 840 Maps 
 
-Map tier balance: surf_tempest T4 (previously T3)
+Map tier balance: 
+surf_hades2 T7 (previously T6)
+surf_offskill T7 (previously T6)
+surf_spectra T7 (previously T6)
+surf_vacant T7 (previously T6)
+surf_vast T7 (previously T6)
+surf_whynot2 T7 (previously T6)
+
+surf_sinsane2 T8 (previously T7)
+surf_tensor2 T8 (previously T7)
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

@@ -18,9 +18,9 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 
 ## Last update
 
-24th June 2024 - Last maps added: surf_salvador_ksf, surf_antagonist & surf_monkeys - 841 Maps 
+30th June 2024 - Last maps added: surf_excavation - 842 Maps 
 
-Map tier balance: 
+Last tier balance (14th June): 
 surf_hades2 T7 (previously T6)
 surf_offskill T7 (previously T6)
 surf_spectra T7 (previously T6)

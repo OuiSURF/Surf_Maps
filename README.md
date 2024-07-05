@@ -18,7 +18,7 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 
 ## Last update
 
-30th June 2024 - Last maps added: surf_excavation - 842 Maps 
+3rd July 2024 - Last maps added: surf_sidelines - 843 Maps 
 
 Last tier balance (14th June): 
 surf_hades2 T7 (previously T6)

@@ -18,18 +18,10 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 
 ## Last update
 
-3rd July 2024 - Last maps added: surf_sidelines - 843 Maps 
+17thd July 2024 - Last maps added: surf_2pacisalive - 844 Maps 
 
-Last tier balance (14th June): 
-surf_hades2 T7 (previously T6)
-surf_offskill T7 (previously T6)
-surf_spectra T7 (previously T6)
-surf_vacant T7 (previously T6)
-surf_vast T7 (previously T6)
-surf_whynot2 T7 (previously T6)
-
-surf_sinsane2 T8 (previously T7)
-surf_tensor2 T8 (previously T7)
+Last tier balance (17th July): 
+surf_cavemissile_fix - T3 (prev T2)
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

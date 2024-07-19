@@ -18,7 +18,7 @@ Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in
 
 ## Last update
 
-17thd July 2024 - Last maps added: surf_2pacisalive - 844 Maps 
+19thd July 2024 - Last maps added: surf_tropic_ksf - 845 Maps 
 
 Last tier balance (17th July): 
 surf_cavemissile_fix - T3 (prev T2)

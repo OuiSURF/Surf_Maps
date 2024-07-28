@@ -14,7 +14,8 @@ Maps from L to Z: https://drive.google.com/drive/u/1/folders/1f3Oe65BngrSxTPKHAt
 Spreadsheet of all the maps : https://docs.google.com/spreadsheets/d/1oXU6UXGPdgdqRiAjjD_5c1WfI6PY6ML4/edit#gid=1729788986
 
 
-Maps are only playable on CS:S and Momentum, IF I upload other maps, it'll be in the sub folder.
+Maps are only playable on CS:S and Momentum, and should be placed in the follwing folder "Steam\steamapps\common\Counter-Strike Source\cstrike\download\maps"
+(You can select all archives and "extract all")
 
 ## Last update
 

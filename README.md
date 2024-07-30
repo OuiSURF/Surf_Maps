@@ -19,7 +19,7 @@ Maps are only playable on CS:S and Momentum, and should be placed in the follwin
 
 ## Last update
 
-19thd July 2024 - Last maps added: surf_tropic_ksf - 845 Maps 
+30th July 2024 - Last maps added: surf_salmari - 846 Maps 
 
 Last tier balance (17th July): 
 surf_cavemissile_fix - T3 (prev T2)

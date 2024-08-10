@@ -19,7 +19,7 @@ Maps are only playable on CS:S and Momentum, and should be placed in the follwin
 
 ## Last update
 
-4th August 2024 - Last maps added: surf_era - 847 Maps 
+10th August 2024 - Last maps added: surf_monkeys2 - 848 Maps 
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

@@ -19,7 +19,7 @@ Maps are only playable on CS:S and Momentum, and should be placed in the follwin
 
 ## Last update
 
-06th September 2024 - Last maps added: surf_twist - 850 Maps 
+13th November 2024 - Last maps added: surf_slate, surf_enigma, surf_n_turf & surf_atonement - 854 Maps 
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

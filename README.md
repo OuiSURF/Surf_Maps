@@ -22,14 +22,28 @@ Maps are only playable on CS:S and Momentum, and should be placed in the follwin
 23rd December 2024 - Last maps added: MAPPING CONTEST MAPS link below (& loweffort2)- 868 Maps 
 
 Lucy - surf_breach
+
+
 snc - surf_cavity
+
+
 dunk - surf_colony
-moby vyk - surf_controlless
+
+
 nutwoomy - surf_interstellar
+
+
 kingkurtis - surf_leidenfrost
+
+
 quethesurfer - surf_muerto
+
+
 Hardex - surf_sleeper
+
+
 disres - surf_torrential
+
 
 https://drive.google.com/drive/u/6/folders/1n6XdNenwc9kBF84cqCholexnmLBpp_YZ
 

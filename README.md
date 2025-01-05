@@ -19,7 +19,11 @@ Maps are only playable on CS:S and Momentum, and should be placed in the follwin
 
 ## Last update
 
-23rd December 2024 - Last maps added: MAPPING CONTEST MAPS link below (& loweffort2)- 868 Maps 
+05th January 2025 - Last maps added: surf_chromatic - 869 Maps 
+
+
+
+MAPPING CONTEST MAPS link below 
 
 
 https://drive.google.com/drive/u/6/folders/1n6XdNenwc9kBF84cqCholexnmLBpp_YZ

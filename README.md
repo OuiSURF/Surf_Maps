@@ -19,38 +19,7 @@ Maps are only playable on CS:S and Momentum, and should be placed in the follwin
 
 ## Last update
 
-05th January 2025 - Last maps added: surf_chromatic - 869 Maps 
-
-
-
-MAPPING CONTEST MAPS link below 
-
-
-https://drive.google.com/drive/u/6/folders/1n6XdNenwc9kBF84cqCholexnmLBpp_YZ
-
-
-Lucy - surf_breach
-
-
-snc - surf_cavity
-
-
-dunk - surf_colony
-
-
-nutwoomy - surf_interstellar
-
-
-kingkurtis - surf_leidenfrost
-
-
-quethesurfer - surf_muerto
-
-
-Hardex - surf_sleeper
-
-
-disres - surf_torrential
+14th January 2025 - Last maps added: surf_whatever - 870 Maps 
 
 
 ## Contact me 

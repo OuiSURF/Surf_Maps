@@ -19,7 +19,7 @@ Maps are only playable on CS:S and Momentum, and should be placed in the follwin
 
 ## Last update
 
-14th January 2025 - Last maps added: surf_whatever - 870 Maps 
+26th January 2025 - Last maps added: surf_olivia - 871 Maps 
 
 
 ## Contact me 

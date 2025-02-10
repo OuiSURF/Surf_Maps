@@ -19,7 +19,7 @@ Maps are only playable on CS:S and Momentum, and should be placed in the follwin
 
 ## Last update
 
-2nd February 2025 - Last maps added: surf_citypop - 872 Maps 
+10th February 2025 - Last maps added: surf_bikini_bottom - 873 Maps 
 
 
 ## Contact me 

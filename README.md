@@ -19,7 +19,7 @@ Maps are only playable on CS:S and Momentum, and should be placed in the follwin
 
 ## Last update
 
-16th February 2025 - Last maps added: surfraqqit - 874 Maps 
+16th February 2025 - Last maps added: surf_raqqit - 874 Maps 
 
 
 ## Contact me 

@@ -19,7 +19,7 @@ Maps are only playable on CS:S and Momentum, and should be placed in the follwin
 
 ## Last update
 
-20th April 2025 - Last maps added: surf_gradient - 882 Maps 
+27th April 2025 - Last maps added: surf_doomsday - 883 Maps 
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

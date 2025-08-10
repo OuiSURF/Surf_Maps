@@ -19,7 +19,7 @@ Maps are only playable on CS:S and Momentum, and should be placed in the follwin
 
 ## Last update
 
-03rd August 2025 - Last maps added: surf_panta_rhey, surf_angelina, surf_vestige_fix, surf_dread, surf_crank, surf_autosave_fix, surf_firedancer & surf_joutsenlaulu - 897 Maps 
+August 10 2025 - Last maps added: surf_ab - 898 Maps 
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.

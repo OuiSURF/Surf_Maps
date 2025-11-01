@@ -19,7 +19,7 @@ Maps are only playable on CS:S and Momentum, and should be placed in the follwin
 
 ## Last update
 
-August 10 2025 - Last maps added: surf_ab - 898 Maps 
+November 1 2025 - Last maps added: surf_spacemonkeys, affliction, tormentor, sofia_fix, techslop, vantica, excess, insects, frus_njv & dune - 908 Maps 
 
 ## Contact me 
 On discord - .0ui - for any issue with / missing a map.
